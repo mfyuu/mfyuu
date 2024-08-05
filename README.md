@@ -3,7 +3,7 @@ I'm an frontend engineer in Japan.
 
 # 📊 GitHub Stats:
 <p align="left"> 
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=ve1997&theme=transparent&show_icons=ture" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats-smoky-nine-47.vercel.app/api?username=ve1997&theme=transparent&show_icons=ture" />
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ve1997&layout=compact&show_icons=true&theme=transparent" />
 </p>
 
