@@ -1,4 +1,4 @@
-# 💫 Hi There.
+# 💎 Hi There.
 I'm an frontend developer in Japan.
 
 # 📊 GitHub Stats:
