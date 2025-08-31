@@ -1,13 +1,13 @@
-# 💎 Hi There.
+# Hi There.
 I'm an frontend developer in Japan.
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 <p align="left"> 
-  <img alt="github stats" height="200px" src="https://github-readme-stats-smoky-nine-47.vercel.app/api?username=namidapoo&theme=transparent&show_icons=ture" />
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namidapoo&layout=compact&show_icons=true&theme=transparent" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats-smoky-nine-47.vercel.app/api?username=mfyuu&theme=transparent&show_icons=ture" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfyuu&layout=compact&show_icons=true&theme=transparent" />
 </p>
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
